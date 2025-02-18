@@ -37,7 +37,3 @@ keyboard and preset for use with the script will be made available as a PDF down
 To make a script/preset combo that would let you make music without touching your QWERTY keyboard or your mouse.
 
 *Or at least reduce how much you'd have to engage with those inputs by a large percent.*
-
-# Demo
-
-https://www.youtube.com/watch?v=M7MtQT1Vpjk
